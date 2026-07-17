@@ -1,2 +1,3 @@
-print('Welcome to git')
+print('Welcome to git training')
 print('Learning git step by step')
+print('Today we are learning git diff')
